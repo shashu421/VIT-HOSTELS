@@ -1,6 +1,6 @@
 # VIT HOSTELS
 
-![Screenshot](1.png)
+
 
 VIT HOSTELS is a website where users can create and review hostels. In order to review or create a hostel, you must have an account. This project was part of our IWP course and was developed under prof Naveen Kumar N.
 
@@ -12,6 +12,8 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 * User profiles include more information on the user (full name, email, phone, join date), their hostels, and the option to edit their profile or delete their account
 * Search hostels by name or location
 * Sort hostels by highest rating, most reviewed, lowest price, or highest price
+
+![Screenshot](1.png)
 
 ## Run it locally
 1. Install [mongodb](https://www.mongodb.com/)
