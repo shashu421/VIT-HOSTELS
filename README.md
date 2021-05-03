@@ -26,9 +26,11 @@ npm install
 Create a .env file (or just export manually in the terminal) in the root of the project and add the following:  
 
 ```
-DATABASEURL='<url>'
+DATABASEURL = mongodb+srv://abc:Shashu421@@shashu-1.ud7qe.mongodb.net/<dbname>?retryWrites=true&w=majority
 API_KEY=''<key>
-API_SECRET='<secret>'
+API_SECRET="hello"
+GEO_CODE_API = wr0zYVqHIOLP6DNLxfwykzE6PDIUrmVqVnesycWAlLM
+
 ```
 
 Run ```mongod``` in another terminal and ```npm start``` in the terminal with the project.  
